@@ -16,15 +16,15 @@ What things you need to install the software and how to install them:
    - Setting up PATH variable is optional as you can also run program without it and more instruction are given below on this topic. 
 2. Second and easier option is to download anaconda and use its anaconda prompt to run the commands. To install anaconda check this url https://www.anaconda.com/download/
 3. You will also need to download and install below 3 packages after you install either python or anaconda from the steps above
-   - Sklearn (scikit-learn)
-   - numpy
-   - scipy
+   - Python 3+
+   - Keras 2+
+   - TensorFlow 1+
 
   - if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages
    ```
-   pip install 
-   pip install 
-   pip install 
+   pip install keras
+   pip install tensorflow
+   
    ```
    - if you have chosen to install anaconda then run below commands in anaconda prompt to install these packages
    ```
