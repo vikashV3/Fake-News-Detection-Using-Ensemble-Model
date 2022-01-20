@@ -48,5 +48,6 @@ What things you need to install the software and how to install them:
 <p align="center">
   <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/block%20diagram.png">
 </p>
+
 ### Questionnaire / FAQ 
 
