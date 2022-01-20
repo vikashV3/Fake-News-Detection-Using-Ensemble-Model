@@ -45,5 +45,8 @@ What things you need to install the software and how to install them:
 
 ### Block Diagram 
 
+<p align="center">
+  <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/block diagram.png">
+</p>
 ### Questionnaire / FAQ 
 
