@@ -38,21 +38,20 @@ What things you need to install the software and how to install them:
 ### Dataset used
 
 The dataset source used in the project is from Kaggle and the link for the same is :
-       #### https://www.kaggle.com/c/fake-news/data
-train.csv: A full training dataset with the following attributes:
+        https://www.kaggle.com/c/fake-news/data
+        
+        <br />
+train.csv: A full training dataset with the following attributes:<br />
 
-id: unique id for a news article
-title: the title of a news article
-author: author of the news article
-text: the text of the article; could be incomplete
-label: a label that marks the article as potentially unreliable
-1: unreliable
-0: reliable
-test.csv: A testing training dataset with all the same attributes at train.csv without the label.
-
-submit.csv: A sample submission that you can
-
-
+id: unique id for a news article <br />
+title: the title of a news article <br />
+author: author of the news article <br />
+text: the text of the article; could be incomplete <br />
+label: a label that marks the article as potentially unreliable <br />
+1: unreliable <br />
+0: reliable <br />
+test.csv: A testing training dataset with all the same attributes at train.csv without the label. <br />
+<br />
 The orignal dataset contains 3 files and 11 columns , which include 6 for string , 3 for id , 2 for integer respectively.
 The dataset has 3 files in CSV format where only 2 files were used which are "train.CSV" and "test.csv" 
 
