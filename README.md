@@ -45,7 +45,15 @@ What things you need to install the software and how to install them:
 
 ### LSTM ( Long Short Term Memory )
 
+#### Accuracy
+#### Matrix
+#### Result
+
 ### Ensemble Model and Ensemble Technique
+
+#### Accuracy
+#### Matrix
+#### Result
 
 ### Block Diagram 
 
