@@ -65,3 +65,5 @@ The image bellow shows the process / block diagram of the model
 
 ### Questionnaire / FAQ 
 
+#### What is GloVe?
+GloVe stands for global vectors for word representation. It is an unsupervised learning algorithm developed by Stanford for generating word embeddings by aggregating global word-word co-occurrence matrix from a corpus
