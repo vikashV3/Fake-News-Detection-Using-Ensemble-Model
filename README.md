@@ -40,7 +40,6 @@ What things you need to install the software and how to install them:
 The dataset source used in the project is from Kaggle and the link for the same is :
         https://www.kaggle.com/c/fake-news/data
         
-        <br />
 train.csv: A full training dataset with the following attributes:<br />
 
 id: unique id for a news article <br />
