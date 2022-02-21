@@ -75,7 +75,7 @@ be added later to add some more complexity and enhance the features.
 #### Train Dataset
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/train.png">
+  <img width="600" height="175" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/train.png">
 </p>
 
 #### Test Dataset 
