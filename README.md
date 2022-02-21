@@ -39,6 +39,19 @@ What things you need to install the software and how to install them:
 
 The dataset source used in the project is from Kaggle and the link for the same is :
        #### https://www.kaggle.com/c/fake-news/data
+train.csv: A full training dataset with the following attributes:
+
+id: unique id for a news article
+title: the title of a news article
+author: author of the news article
+text: the text of the article; could be incomplete
+label: a label that marks the article as potentially unreliable
+1: unreliable
+0: reliable
+test.csv: A testing training dataset with all the same attributes at train.csv without the label.
+
+submit.csv: A sample submission that you can
+
 
 The orignal dataset contains 3 files and 11 columns , which include 6 for string , 3 for id , 2 for integer respectively.
 The dataset has 3 files in CSV format where only 2 files were used which are "train.CSV" and "test.csv" 
@@ -62,13 +75,13 @@ be added later to add some more complexity and enhance the features.
 #### Train Dataset
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.png">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/.png">
 </p>
 
 #### Test Dataset 
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.png">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/.png">
 </p>
 
 ### Files and File descriptions
