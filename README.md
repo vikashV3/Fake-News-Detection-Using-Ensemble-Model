@@ -37,6 +37,40 @@ What things you need to install the software and how to install them:
 
 ### Dataset used
 
+The dataset source used in the project is from Kaggle and the link for the same is :
+       #### https://www.kaggle.com/c/fake-news/data
+
+The orignal dataset contains 3 files and 11 columns , which include 6 for string , 3 for id , 2 for integer respectively.
+The dataset has 3 files in CSV format where only 2 files were used which are "train.CSV" and "test.csv" 
+
+For the Train dataset : 
+* Column 1: ID
+* Column 2: Title
+* Column 3: Author
+* Column 4: Text
+* Column 5: Label
+
+For the test dataset :
+* Column 1: ID
+* Column 2: Title
+* Column 3: Author
+* Column 4: Text
+
+To keep the project simple we have choosen limited number of variable from the orignal dataset for the classification. The other variables can 
+be added later to add some more complexity and enhance the features.
+
+#### Train Dataset
+
+<p align="center">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.png">
+</p>
+
+#### Test Dataset 
+
+<p align="center">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.png">
+</p>
+
 ### Files and File descriptions
 
 
