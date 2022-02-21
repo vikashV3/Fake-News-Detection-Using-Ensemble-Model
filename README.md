@@ -144,3 +144,4 @@ A CNN typically has three layers: a convolutional layer, a pooling layer, and a 
 #### What is the difference between the convolutional approach and the simple approach in CNN ? 
 #### What is epoch value ? 
 #### What libraries are used in the project ? 
+#### What is confusion matrix , How do you make it ? 
