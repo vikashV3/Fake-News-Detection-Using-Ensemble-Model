@@ -137,3 +137,6 @@ The image bellow shows the process / block diagram of the model
 GloVe stands for global vectors for word representation. It is an unsupervised learning algorithm developed by Stanford for generating word embeddings by aggregating global word-word co-occurrence matrix from a corpus.
 #### How many layers are there in an typical CNN ? 
 A CNN typically has three layers: a convolutional layer, a pooling layer, and a fully connected layer.
+#### What is the difference between the convolutional approach and the simple approach in CNN ? 
+#### What is epoch value ? 
+#### What libraries are used in the project ? 
