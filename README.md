@@ -114,7 +114,6 @@ Output of both the models
 
 ### LSTM ( Long Short Term Memory )
 
-
 #### Output
 <p align="center">
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmmatrix.png">
