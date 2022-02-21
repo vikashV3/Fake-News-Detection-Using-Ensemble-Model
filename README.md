@@ -93,18 +93,18 @@ be added later to add some more complexity and enhance the features.
 For Simple CNN : 
 #### Accuracy and Loss 
 <p align="center">
-  <img width="700" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/simplecnn.png">
+  <img width="500" height="550" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/simplecnn.png">
 </p>
 
 For Convolutional approach : 
 #### Accuracy and Loss
 <p align="center">
-  <img width="700" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/convocnn.png">
+  <img width="500" height="550" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/convocnn.png">
 </p>
 
 #### Output
 <p align="center">
-  <img width="700" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/cnnoutput.png">
+  <img width="500" height="550" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/cnnoutput.png">
 </p>
 
 #### Result
