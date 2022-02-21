@@ -90,6 +90,28 @@ be added later to add some more complexity and enhance the features.
 
 ### CNN ( Convolutional Neural Networks )
 
+For Simple CNN : 
+#### Accuracy and Loss 
+<p align="center">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/simplecnn.png">
+</p>
+
+For Convolutional approach : 
+#### Accuracy and Loss
+<p align="center">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/convocnn.png">
+</p>
+
+#### Output
+<p align="center">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/cnnoutput.png">
+</p>
+
+#### Result
+<p align="center">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/cnnoutput.png">
+</p>
+
 ### LSTM ( Long Short Term Memory )
 
 #### Accuracy
@@ -98,9 +120,6 @@ be added later to add some more complexity and enhance the features.
 
 ### Ensemble Model and Ensemble Technique
 
-#### Accuracy
-#### Output
-#### Result
 
 ### Block Diagram 
 
