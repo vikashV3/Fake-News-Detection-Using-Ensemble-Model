@@ -39,9 +39,13 @@ What things you need to install the software and how to install them:
 
 ### File descriptions
 
-### Ensemble Technique 
 
 
+### CNN ( Convolutional Neural Networks )
+
+### LSTM ( Long Short Term Memory )
+
+### Ensemble Model and Ensemble Technique
 
 ### Block Diagram 
 
