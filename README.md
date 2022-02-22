@@ -132,7 +132,7 @@ Output of both the models
 The image bellow shows the process / block diagram of the model 
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.png">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.jpg">
 </p>
 
 ### Questionnaire / FAQ 
