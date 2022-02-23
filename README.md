@@ -155,7 +155,7 @@ Both are the same variations of cnn but number of hidden layers are different. I
 #### What is epoch value ? 
 Training the neural network with the training data for one cycle. For epoch we use all the data at once. A forward and backward pass together are counted as one pass. An epoch is made up of one or more batches, where we use a part of the dataset to train the neural network.
 #### What libraries are used in the project ? 
-
+Some libraries used are TensorFlow , Keras , Sklearn , Glove-py , Seaborn , Numpy , Pandas , Matplotlib and more.
 #### What is a Confusion Matrix ? 
 A confusion matrix is a table that is used to describe the performance of a classification model (or "classifier") on sets of test data for which the true values are known.
 #### What does convolutional mean in CNN?
