@@ -151,9 +151,19 @@ GloVe stands for global vectors for word representation. It is an unsupervised l
 #### How many layers are there in an typical CNN ? 
 A CNN typically has three layers: a convolutional layer, a pooling layer, and a fully connected layer.
 #### What is the difference between the convolutional approach and the simple approach in CNN ? 
+Both are the same variations of cnn but number of hidden layers are different. In simple CNN generally there are two or three layers but deep CNN will have multiple hidden layers usually more than 5 , which is used to extract more features and increase the accuracy of the prediction. There are two kinds of deep CNN ,one is increasing the number of hidden layers or by increasing the number of nodes in the hidden layer. 
 #### What is epoch value ? 
 Training the neural network with the training data for one cycle. For epoch we use all the data at once. A forward and backward pass together are counted as one pass. An epoch is made up of one or more batches, where we use a part of the dataset to train the neural network.
 #### What libraries are used in the project ? 
-#### What is confusion matrix ? 
+
+#### What is a Confusion Matrix ? 
+A confusion matrix is a table that is used to describe the performance of a classification model (or "classifier") on sets of test data for which the true values are known.
+#### What does convolutional mean in CNN?
+The term convolution refers to the mathematical combination of two functions to produce a third function. It merges two sets of information. The convolution is performed on the input data with the use of a filter or kernel to then produce a map.
 #### What is Pooling ? 
 A layer in CNN which is one of the main building block. It functions as to progressively reduce the spatial size of the representation as to reduce the amount of parameters and computation in neural network.
+#### What does convolution mean ?
+A convolution is the simple application of a filter to an input that results in an activation.
+#### What is RNN and how is it related to LSTM ?
+The units of an LSTM are used as building units for the layers of RNN which is often called an LSTM network. LSTM enables RNN to remember inputs over a long period of time.It is because LSTM units include 'Memory Cell' which can contain information in memory for a long period of time.
+LSTM is a type of RNN.
