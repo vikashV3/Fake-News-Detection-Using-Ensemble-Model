@@ -127,7 +127,12 @@ Output of both the models
 
 ### LSTM ( Long Short Term Memory )
 
-Text about lstm
+Long Short-Term Memory, LSTM Neural Networks , is a type of recurrent neural networks that got attention recently within the machine learning community.
+LSTM networks have some internal contextual state cells that act as long-term or short-term memory cells.
+The output of the LSTM network is modulated by the state of these cells. This is an important property when we need the prediction of the neural network to depend on the historical context of inputs, rather than only on the very last input.
+
+LSTM has applications in various fields such as text generation , handwriting recognition , handwriting generation , music generation , language transalation ,
+image captioning , etc.
 
 #### Output
 <p align="center">
@@ -165,6 +170,6 @@ The term convolution refers to the mathematical combination of two functions to 
 A layer in CNN which is one of the main building block. It functions as to progressively reduce the spatial size of the representation as to reduce the amount of parameters and computation in neural network.
 #### What does convolution mean ?
 A convolution is the simple application of a filter to an input that results in an activation.
-<u>#### What is RNN and how is it related to LSTM ? </u>
+#### What is RNN and how is it related to LSTM ? 
 The units of an LSTM are used as building units for the layers of RNN which is often called an LSTM network. LSTM enables RNN to remember inputs over a long period of time.It is because LSTM units include 'Memory Cell' which can contain information in memory for a long period of time.
 LSTM is a type of RNN.
