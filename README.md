@@ -164,6 +164,6 @@ The term convolution refers to the mathematical combination of two functions to 
 A layer in CNN which is one of the main building block. It functions as to progressively reduce the spatial size of the representation as to reduce the amount of parameters and computation in neural network.
 #### What does convolution mean ?
 A convolution is the simple application of a filter to an input that results in an activation.
-#### What is RNN and how is it related to LSTM ?
+<u>#### What is RNN and how is it related to LSTM ? </u>
 The units of an LSTM are used as building units for the layers of RNN which is often called an LSTM network. LSTM enables RNN to remember inputs over a long period of time.It is because LSTM units include 'Memory Cell' which can contain information in memory for a long period of time.
 LSTM is a type of RNN.
