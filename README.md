@@ -98,7 +98,8 @@ text about , metholody used , libraries and estimators classifiers and algo spee
 
 ### CNN ( Convolutional Neural Networks )
 
-Text about cnn 
+A Convolutional Neural Network is a Deep Learning algorithm which can take in an input and assign importance (learnable weights and biases) to various aspects/objects in the input and be able to differentiate one from the other via labeling them. The pre-processing required in CNN is much lesser as compared to other classification algorithms. A CNN typically has three layers: a convolutional layer, pooling layer, and fully connected layer.
+The typical process for an CNN architecture goes with the input being given into convolution layer. The main objective of convolution is to extract features from the input with featured kernel/filters. This is further applied to pooling layer to reduce the dimensions of data. Afterwards Addition of these layers multiple times is carried out and flattend. The flattened output is fed to a feed-forward neural network and backpropagation is applied to every iteration of training. Over a series of epochs, the model can distinguish between dominating and certain low-level features in input and classify them.
 
 For Simple CNN : 
 #### Accuracy and Loss 
@@ -142,7 +143,6 @@ Text about lstm
 
 text and image - tabular format 
 
-Infrence from result 
 
 ### Questionnaire / FAQ 
 
