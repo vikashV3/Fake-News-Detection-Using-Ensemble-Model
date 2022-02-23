@@ -41,7 +41,6 @@ The image bellow shows the process / block diagram of the model
   <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/Diagram.jpg">
 </p>
 
-
 ### Dataset used
 
 The dataset source used in the project is from Kaggle and the link for the same is :
@@ -91,9 +90,15 @@ be added later to add some more complexity and enhance the features.
 
 ### Files and File descriptions
 
+text
 
+### Introduction to INFOCHECK 
+
+text about , metholody used , libraries and estimators classifiers and algo speed and the obtained result with required algo used 
 
 ### CNN ( Convolutional Neural Networks )
+
+Text about cnn 
 
 For Simple CNN : 
 #### Accuracy and Loss 
@@ -121,6 +126,8 @@ Output of both the models
 
 ### LSTM ( Long Short Term Memory )
 
+Text about lstm
+
 #### Output
 <p align="center">
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmmatrix.png">
@@ -131,7 +138,11 @@ Output of both the models
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmoutput.png">
 </p>
 
-### Ensemble Model and Ensemble Technique
+### Comparing Obtained Results
+
+text and image - tabular format 
+
+Infrence from result 
 
 ### Questionnaire / FAQ 
 
@@ -141,5 +152,8 @@ GloVe stands for global vectors for word representation. It is an unsupervised l
 A CNN typically has three layers: a convolutional layer, a pooling layer, and a fully connected layer.
 #### What is the difference between the convolutional approach and the simple approach in CNN ? 
 #### What is epoch value ? 
+Training the neural network with the training data for one cycle. For epoch we use all the data at once. A forward and backward pass together are counted as one pass. An epoch is made up of one or more batches, where we use a part of the dataset to train the neural network.
 #### What libraries are used in the project ? 
-#### What is confusion matrix , How do you make it ? 
+#### What is confusion matrix ? 
+#### What is Pooling ? 
+A layer in CNN which is one of the main building block. It functions as to progressively reduce the spatial size of the representation as to reduce the amount of parameters and computation in neural network.
