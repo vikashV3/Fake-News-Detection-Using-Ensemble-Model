@@ -1,4 +1,4 @@
-# Infocheck 
+# INFOCHECK
 
 # Fake News Detection with Deep Learning
 
