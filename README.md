@@ -142,7 +142,7 @@ Text about lstm
 ### Comparing Obtained Results
 
 <p align="center">
-  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracy.PNG">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracy.png">
 </p>
 
 ### Questionnaire / FAQ 
