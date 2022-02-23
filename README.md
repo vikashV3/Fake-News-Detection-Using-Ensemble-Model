@@ -141,8 +141,9 @@ Text about lstm
 
 ### Comparing Obtained Results
 
-text and image - tabular format 
-
+<p align="center">
+  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracy.PNG">
+</p>
 
 ### Questionnaire / FAQ 
 
