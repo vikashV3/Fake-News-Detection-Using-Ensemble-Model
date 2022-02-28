@@ -146,7 +146,7 @@ image captioning , etc.
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmoutput.png">
 </p>
 
-### Comparing Obtained Results
+### Comparing Results
 
 <p align="center">
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracy.png">
