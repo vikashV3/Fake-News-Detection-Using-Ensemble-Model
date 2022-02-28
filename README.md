@@ -92,9 +92,6 @@ be added later to add some more complexity and enhance the features.
 
 text
 
-### Introduction to INFOCHECK 
-
-text about , metholody used , libraries and estimators classifiers and algo speed and the obtained result with required algo used 
 
 ### CNN ( Convolutional Neural Networks )
 
