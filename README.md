@@ -90,9 +90,14 @@ be added later to add some more complexity and enhance the features.
 
 ### Files and File descriptions
 
-text
+#### Dataset.ipynb
+The file contains the information about dataset and the data frame made used using panadas framework.
 
+#### CNN.ipynb
+The file contains the code for Convolutional Neural Network CNN model and the approach that has been used to get the desired result.
 
+#### LSTM.ipynb
+The file contains the code for Long Short Term Memory LSTM model , and the desired results are derived from it.
 ### CNN ( Convolutional Neural Networks )
 
 A Convolutional Neural Network is a Deep Learning algorithm which can take in an input and assign importance (learnable weights and biases) to various aspects/objects in the input and be able to differentiate one from the other via labeling them. The pre-processing required in CNN is much lesser as compared to other classification algorithms. A CNN typically has three layers: a convolutional layer, pooling layer, and fully connected layer.
