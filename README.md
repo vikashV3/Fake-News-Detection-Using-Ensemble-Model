@@ -175,3 +175,5 @@ A convolution is the simple application of a filter to an input that results in 
 #### What is RNN and how is it related to LSTM ? 
 The units of an LSTM are used as building units for the layers of RNN which is often called an LSTM network. LSTM enables RNN to remember inputs over a long period of time.It is because LSTM units include 'Memory Cell' which can contain information in memory for a long period of time.
 LSTM is a type of RNN.
+#### Is deep learning Supervised or Unsupervised learning ? 
+Deep Learning is supervised learning algorithm and it can also be applied to unsupervised learning too. 
