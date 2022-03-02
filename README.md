@@ -152,7 +152,7 @@ text
 
 #### Accuracy
 <p align="center">
-  <img width="400" height="100" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
+  <img width="400" height="70" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
 </p>
 
 #### Confusion Matrix 
