@@ -157,12 +157,12 @@ text
 
 #### Confusion Matrix 
 <p align="center">
-  <img width="200" height="100" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensemblematrix.png">
+  <img width="300" height="100" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensemblematrix.png">
 </p>
 
 #### Result
 <p align="center">
-  <img width="500" height="150" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleresult.png">
+  <img width="500" height="70" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleresult.png">
 </p>
 
 ### Comparing Results
