@@ -173,6 +173,10 @@ text
 
 ### Questionnaire / FAQ 
 
+#### What is soft voting ?
+The soft voting, predicts the class label based on the sums of the predicted probabilities of the individual estimators that make up the ensemble. The soft voting is often recommended in the case of an ensemble of fitted classifiers.
+#### What is hard voting ?
+The hard voting type is applied to predicted class labels for majority rule voting. This uses the idea of vote for majority i.e. decisions is made in favor of whoever has more than half of the vote.
 #### What are the types of voting classifier available ? 
 Hard and Soft voiting are the two major type of voting classifier available.
 #### What is GloVe?
