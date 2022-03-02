@@ -152,12 +152,12 @@ text
 
 #### Accuracy
 <p align="center">
-  <img width="400" height="50" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
+  <img width="400" height="30" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
 </p>
 
 #### Confusion Matrix 
 <p align="center">
-  <img width="300" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensemblematrix.png">
+  <img width="200" height="100" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensemblematrix.png">
 </p>
 
 #### Result
