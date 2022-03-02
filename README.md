@@ -146,6 +146,25 @@ image captioning , etc.
   <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmoutput.png">
 </p>
 
+### Ensemble Model
+
+text
+
+#### Accuracy
+<p align="center">
+  <img width="400" height="100" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
+</p>
+
+#### Confusion Matrix 
+<p align="center">
+  <img width="300" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensemblematrix.png">
+</p>
+
+#### Result
+<p align="center">
+  <img width="500" height="150" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleresult.png">
+</p>
+
 ### Comparing Results
 
 <p align="center">
