@@ -147,8 +147,23 @@ image captioning , etc.
 </p>
 
 ### Ensemble Model
+A single algorithm may not make the perfect prediction for a given dataset. Machine learning algorithms have their limitations and producing a model with high accuracy is challenging. If we build and combine multiple models, the overall accuracy could get boosted. The combination can be implemented by aggregating the output from each model with two objectives: reducing the model error and maintaining its generalization.
 
-text
+Ensemble models is a machine learning approach to combine multiple other models in the prediction process. Those models are referred to as base estimators.Some textbooks refer to such architecture as meta-algorithms.
+#### Ensembling Technique 
+There are mainly 3 major ensembling techniques 
+Bagging - Fitting decision trees on different samples of the same dataset and averaging the prediction
+Stacking - Fitting many different model type on the same data and using another model to learn how to best combine their predictions 
+Boosting - Involves adding ensemble members sequentially that correct the prediction made by prior models and output a weighted average of their predictions
+
+Bagging                                   Boosting                                 Stacking 
+   |                                         |                                         |
+Bagged decison trees                   Ada Boosting                             Voting (Hard and soft)
+Random Subsapce                       Gradient Boosting                          Weighted Average
+Random Forest                     Stochastic Gradient Boosting                     Blending
+Extra Trees                              XGBoost                                   Stacking 
+Custom Bagging                           Light GBM                               Super Learnner 
+
 
 #### Accuracy
 <p align="center">
