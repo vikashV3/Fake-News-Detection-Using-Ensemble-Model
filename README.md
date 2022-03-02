@@ -173,6 +173,8 @@ text
 
 ### Questionnaire / FAQ 
 
+#### What are the types of voting classifier available ? 
+Hard and Soft voiting are the two major type of voting classifier available.
 #### What is GloVe?
 GloVe stands for global vectors for word representation. It is an unsupervised learning algorithm developed by Stanford for generating word embeddings by aggregating global word-word co-occurrence matrix from a corpus.
 #### How many layers are there in an typical CNN ? 
