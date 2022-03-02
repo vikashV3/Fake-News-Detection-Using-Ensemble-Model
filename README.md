@@ -160,6 +160,9 @@ Boosting - Involves adding ensemble members sequentially that correct the predic
   <img width="600" height="150" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/info.png">
 </p>
 
+#### Soft Voting 
+In soft voting, every individual classifier provides a probability value that a specific data point belongs to a particular target class. The predictions are weighted by the classifier's importance and summed up. Then the target label with the greatest sum of weighted probabilities wins the vote.The soft voting is often recommended in the case of an ensemble of fitted classifiers.
+
 #### Accuracy
 <p align="center">
   <img width="500" height="30" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleaccuracy.png">
