@@ -156,14 +156,9 @@ Bagging - Fitting decision trees on different samples of the same dataset and av
 Stacking - Fitting many different model type on the same data and using another model to learn how to best combine their predictions 
 Boosting - Involves adding ensemble members sequentially that correct the prediction made by prior models and output a weighted average of their predictions
 
-Bagging                                   Boosting                                 Stacking 
-   |                                         |                                         |
-Bagged decison trees                   Ada Boosting                             Voting (Hard and soft)
-Random Subsapce                       Gradient Boosting                          Weighted Average
-Random Forest                     Stochastic Gradient Boosting                     Blending
-Extra Trees                              XGBoost                                   Stacking 
-Custom Bagging                           Light GBM                               Super Learnner 
-
+<p align="center">
+  <img width="600" height="150" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/info.png">
+</p>
 
 #### Accuracy
 <p align="center">
