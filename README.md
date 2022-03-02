@@ -168,7 +168,7 @@ text
 ### Comparing Results
 
 <p align="center">
-  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracycompare.png">
+  <img width="600" height="150" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/accuracycompare.png">
 </p>
 
 ### Questionnaire / FAQ 
