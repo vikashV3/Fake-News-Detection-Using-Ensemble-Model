@@ -143,7 +143,7 @@ image captioning , etc.
 
 #### Accuracy and other results 
 <p align="center">
-  <img width="700" height="250" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmoutput.png">
+  <img width="750" height="80" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/lstmaccuracy.png">
 </p>
 
 ### Ensemble Model
