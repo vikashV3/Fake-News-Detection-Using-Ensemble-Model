@@ -38,7 +38,7 @@ What things you need to install the software and how to install them:
 The image bellow shows the process / block diagram of the model 
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/Diagram.jpg">
+  <img width="600" height="750" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/BlockDiagram.jpg">
 </p>
 
 ### Dataset used
