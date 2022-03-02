@@ -162,7 +162,7 @@ text
 
 #### Result
 <p align="center">
-  <img width="700" height="80" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleresult.png">
+  <img width="750" height="80" src="https://github.com/vikashV3/Infocheck---Fake-News-Detection-with-Deep-Learning-/blob/main/ensembleresult.png">
 </p>
 
 ### Comparing Results
