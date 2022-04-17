@@ -1,11 +1,6 @@
-# INFOCHECK
+# Fake news detection using Ensemble model
 
-# Fake News Detection with Deep Learning
-
-
-### ||   INFOCHECK   ||     
-
-### Fake News Detection with Deep Learning 
+### ||   FAKE NEWS DETECTION USING ENSEMBLE MODEL   ||     
 
 ### Prerequisites
 
